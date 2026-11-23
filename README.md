@@ -25,7 +25,7 @@ Use it from a web page in your browser, or from the command line.
 2. (Optional) Install Ghostscript if you have old-format `.ai` files.
 3. Open a terminal in this folder and install dependencies:
    ```
-   cd C:\Users\shaik\Downloads\ai2svg-js
+   cd path\to\ai2svg-js
    npm install
    ```
 
