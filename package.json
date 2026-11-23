@@ -1,0 +1,8 @@
+{
+  "name": "ai2svg",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": { "ai2svg": "ai2svg.mjs" },
+  "scripts": { "start": "node server.mjs" },
+  "dependencies": { "mupdf": "^1.28.6" }
+}
